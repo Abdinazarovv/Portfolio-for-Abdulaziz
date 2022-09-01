@@ -1048,6 +1048,14 @@ ol {
   border-color: #281A3E;
 }
 
+/* .logo-img {
+  color: white;
+} */
+
+.logo-img {
+  filter: brightness(0) invert(1);
+}
+
 .about__text__desc {
   margin-top: -10px;
 }
